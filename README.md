@@ -1,4 +1,8 @@
-# Readme: Uttar Pradesh Tourism Power BI Analysis
+# 💻 Tech Stack: 
+
+![image](https://github.com/nitinkc1/credit_suisse_bank_collapsed_Analysis/assets/130339748/b7d2630a-434d-4c42-aac3-42b26c99a4bb)
+
+#  Uttar Pradesh Tourism Power BI Analysis
 
 ## Objective
 The primary objective of this Power BI analysis is to leverage Uttar Pradesh tourism data to identify and analyze the top 10 districts with the highest domestic and foreign visitor numbers. Additionally, the analysis aims to calculate the Compound Annual Growth Rate (CAGR) for both visitor categories and track year-on-year growth trends. The insights gained from this analysis will empower stakeholders to make informed decisions and contribute to the enhancement of Uttar Pradesh's tourism sector.
